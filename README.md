@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Karim! 👋
 
-<!--
-**Karimao/karimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently specializing in Cybersecurity and Ethical Hacking. I am passionate about securing critical infrastructure and applying defensive programming in enterprise environments.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+* **Security:** Penetration Testing, Defensive Logging, Network Analysis and Cloud Security.
+* **Languages:** Python
+* **Environments:** Linux, Hyper-V, VMware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+* Building robust client-server architectures with advanced error handling.
+* Exploring the intersection of Artificial Intelligence and threat detection.
+* Preparing for my upcoming cybersecurity internship (LIA).
+
+📫 **Reach me:** https://www.linkedin.com/in/karimbenali/
